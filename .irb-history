@@ -1,0 +1,18 @@
+tap('hi')
+no
+reinstall_test_server
+reinstall_apps
+start_test_server_in_background
+start_test_server_in_background
+tap('+3 POINTS')
+tap('+3 POINTS')
+tap('+3 POINTS')
+tap('+3 POINTS')
+tap('+2 POINTS')
+tap_mark('+2 POINTS')
+tap_mark('+2 POINTS')
+tap_mark('+2 POINTS')
+tap_mark('+3 POINTS')
+tap_mark('reset')
+tap_mark('RESET')
+exit
