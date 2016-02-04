@@ -1,4 +1,4 @@
-package com.example.android.courtcounter;
+package com.justinraczak.android.courtcounter;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;

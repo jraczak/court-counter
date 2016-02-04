@@ -48,7 +48,7 @@
     <Button
         android:text="+3 POINTS"
         android:textColor="#ffffff"
-        android:id="@+id/team_a_three_point_button"
+        android:id="@+id/team_a_3_point_button"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginLeft="24dp"
@@ -59,6 +59,7 @@
     <Button
         android:text="+2 POINTS"
         android:textColor="#ffffff"
+        android:id="@+id/team_a_2_point_button"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginLeft="24dp"
@@ -69,6 +70,7 @@
     <Button
         android:text="FREE THROW"
         android:textColor="#ffffff"
+        android:id="@+id/team_a_free_throw_button"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginLeft="24dp"
@@ -115,6 +117,7 @@
         <Button
             android:text="+3 POINTS"
             android:textColor="#ffffff"
+            android:id="@+id/team_b_3_point_button"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginLeft="24dp"
@@ -125,6 +128,7 @@
         <Button
             android:text="+2 POINTS"
             android:textColor="#ffffff"
+            android:id="@+id/team_b_2_point_button"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginLeft="24dp"
@@ -135,6 +139,7 @@
         <Button
             android:text="FREE THROW"
             android:textColor="#ffffff"
+            android:id="@+id/team_b_free_throw_button"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginLeft="24dp"

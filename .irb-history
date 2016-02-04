@@ -16,3 +16,51 @@ tap_mark('+3 POINTS')
 tap_mark('reset')
 tap_mark('RESET')
 exit
+start_app
+App.start_app
+app.start_app
+initialize(app/app-release.apk)
+initialize app-release.apk
+start_app
+exit
+start_application
+exit
+ids
+start_application
+start_app
+install_app
+start_app
+ids
+tree
+tap('+3 Points')
+start_app
+exit
+start_app
+install_app
+start_app
+ids
+tap('team_a_3_point_button')
+tap("team_a_3_point_button")
+tap("* marked:'team_a_3_point_button'")
+tap("'AppCompatButton' marked:'team_a_3_point_button'")
+tap("AppCompatButton marked:'team_a_3_point_button'")
+query("button")
+query('button')
+query('point')
+query
+query('points')
+query('POINTS')
+tree
+query("android.widget.Button text:'3'")
+query("android.widget.Button text:'+3'")
+query({id: 'team_a_3_point_button'})
+query({text: 'points'})
+query({text: 'POINTS'})
+query({text: '+3 POINTS'})
+query({text: '+3 points'})
+query({text: '+3 POINTS'})
+query({text: 'reset'})
+query({text: 'RESET'})
+query({text LIKE[c] 'RESET'})
+query("* {text LIKE[c] '*RESET*'}")
+exit
