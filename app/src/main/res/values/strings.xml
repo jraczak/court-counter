@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Court Counter</string>
 
-    <string name="team_a_name">The Agile Deliverers</string>
+    <string name="team_a_name">Kai's Team</string>
     <string name="team_b_name">The Waterfall Wah Wahs</string>
     <string name="action_settings">Settings</string>
 </resources>
